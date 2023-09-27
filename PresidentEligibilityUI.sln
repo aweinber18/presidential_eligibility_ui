@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PresidentEligibilityUI", "PresidentEligibilityUI.csproj", "{3C479552-660E-48CB-AB3E-4878A3CC4350}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C479552-660E-48CB-AB3E-4878A3CC4350}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C479552-660E-48CB-AB3E-4878A3CC4350}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C479552-660E-48CB-AB3E-4878A3CC4350}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C479552-660E-48CB-AB3E-4878A3CC4350}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0FA6A16-09AF-4521-A716-4E42957B04ED}
+	EndGlobalSection
+EndGlobal
